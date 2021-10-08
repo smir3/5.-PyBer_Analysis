@@ -9,6 +9,7 @@ Task deliverables: I will use Python and Pandas to create a summary DataFrame of
 
 Results
 
+
 ![](fares%20by%20week)
 
 ![](summary%20df.png)
