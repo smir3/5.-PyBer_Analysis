@@ -14,7 +14,8 @@ Results
 
 ![](total%20fare%20by%20city%20type.png)
 
-![](fares%20by%20week)
+![](faresbyweek.png)
+
 
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
 
